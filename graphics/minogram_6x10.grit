@@ -1,0 +1,3 @@
+-gB1  // Force 1-bit per pixel output
+-m!   // Do not export a tilemap
+-p!   // Do not export a palette (fonts use the global palette)

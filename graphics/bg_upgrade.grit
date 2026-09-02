@@ -1,0 +1,9 @@
+-gt         # Tile mode
+-gB4        # 4bpp (16 colors)
+-gT FF00FF   # Set transparent color to dummy magenta (avoids the "!" crash)
+
+-aw 256     # Pad width to 256px (32 tiles) to stop row scrambling
+-ah 256     # Pad height to 256px (32 tiles)
+-m          # Export Map
+-p          # Export Palette
+-ftc        # Output as C/H files

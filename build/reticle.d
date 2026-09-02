@@ -1,0 +1,1 @@
+reticle.o: reticle.s

@@ -1,0 +1,1 @@
+bullet.o: bullet.s
